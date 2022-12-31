@@ -17,3 +17,6 @@ or
 ```
 npm run build
 ```
+
+ ## Created By
+ **Dimas Dharu Ramadhan**
