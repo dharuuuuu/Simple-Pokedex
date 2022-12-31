@@ -1,7 +1,7 @@
 # Simple-Pokedex
 
 ## overview
-A simple pokedex website that retrieves data from the API and displays it directly on the screen.
+A simple pokedex website that retrieves data from the API and displays it directly on the screen. I also use this website as a submission for the fundamental front-end web module in Dicoding
 
 ## How to Run
 first you have to run the below syntax in the terminal where the above code is :
